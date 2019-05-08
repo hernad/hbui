@@ -1,0 +1,7 @@
+/* Encoding: UTF-8 (No BOM)  Notation (in 5th position):
+     * Change, ! Fix, % Optimization, + Addition, - Removal, ; Comment
+   Entries may not always be in chronological/commit order.
+   Get accurate and dynamic log using command:
+     git log --pretty=medium --no-merges --date=iso --abbrev-commit HEAD~50..HEAD
+   See license at the end of file. */
+
